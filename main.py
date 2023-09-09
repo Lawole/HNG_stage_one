@@ -22,8 +22,8 @@ def hng_stage_one():
                 "current_day": today,
                 "utc_time": utc_time,
                 "track": track,
-                "github_file_url": " ",
-                "github_repo_url": " ",
+                "github_file_url": "https://github.com/Lawole/HNG_stage_one/blob/master/main.py",
+                "github_repo_url": "https://github.com/Lawole/HNG_stage_one",
                 "status_code": 200
             }
 
